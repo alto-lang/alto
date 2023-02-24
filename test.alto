@@ -1,3 +1,2 @@
-// Test comment
-// Test other comment
-test _identifier
+fn @test() -> void:
+    RET
